@@ -1,0 +1,24 @@
+* {
+    font-family: 'Times New Roman', serif;
+}
+
+a {
+    font-size: 40px;
+    color: aquamarine;
+}
+
+h1, h2 {
+    font-size: 40px;
+    background: black;
+    color: red;
+}
+
+ul {
+    background-color: blanchedalmond;
+    color: blue;
+}
+
+ol {
+    background-color: yellow;
+    color: black;
+}
